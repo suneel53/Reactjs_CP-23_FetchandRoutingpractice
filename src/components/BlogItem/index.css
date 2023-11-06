@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.item-Link {
+  color: black;
+  text-decoration: none;
+  border: 1px solid #8e8e8e;
+  border-radius: 10px;
+  width: 95%;
+  margin-bottom: 10px;
+}
+.blogItem-cont {
+  display: flex;
+  margin: 15px;
+}
+
+.blogItem-image {
+  width: 40%;
+  height: 200px;
+  margin-right: 20px;
+}
+.blogItem-title {
+  font-size: 22px;
+  font-weight: 500;
+}
+.blogItem-author-info-cont {
+  display: flex;
+  align-items: center;
+}
+.blogItem-author-logo {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  margin-right: 20px;
+}
